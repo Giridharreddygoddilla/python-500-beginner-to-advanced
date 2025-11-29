@@ -32,6 +32,8 @@ total = num1 + num2
 print("The sum is:", total)
 
 """
+Notes:
+
 input() --> recives user input
 int() --> converts the input to numbers
 + --> performs addition
