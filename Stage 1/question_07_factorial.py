@@ -29,7 +29,7 @@ num = int(input("Enter a number : "))
 factorial = 1
 
 # Handle special case 
-# If num is 0 or 1, the answe is simply 1.
+# If num is 0 or 1, the answer is simply 1.
 if num == 0 or num == 1:
     factorial = 1
 else:
